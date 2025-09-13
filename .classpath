@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Add Two Numbers"/>
+	<classpathentry kind="src" path="Longest Substring Without Repeating Characters"/>
+	<classpathentry kind="src" path="twoSum"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
